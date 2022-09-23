@@ -1,4 +1,4 @@
-# CD_M3_Notebooks
+# CD_DGTIC_Notebooks
 Jupyter Notebooks de apoyo
 
 Apoyo para el Tema 1: En distribuciones.ipynb se tienen ejemplos para trabajar y graficas distribuciones discretas y continuas.
